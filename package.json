@@ -4,9 +4,9 @@
   "description": "Interface for Spotify",
   "main": "play.js",
   "dependencies": {
-    "spotify-web": "~0.1.1",
     "lame": "~1.0.2",
-    "progress": "~0.1.0"
+    "progress": "^1.1.8",
+    "spotify-web": "git://github.com/Rhombulus/node-spotify-web.git"
   },
   "devDependencies": {},
   "scripts": {
